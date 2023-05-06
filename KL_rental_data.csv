@@ -1,0 +1,50 @@
+Date,prop_name,completion_year,monthly_rent,location,property_type,rooms,parking,bathroom,size,furnished,region,No_of_facilities
+1/1/2023,The Hipster @ Taman Desa,2022,4200,Taman Desa,Condominium,5,2,6,1842,1,Kuala Lumpur,10
+1/2/2023,Segar Courts,2022,2300,Cheras,Condominium,3,1,2,1170,3,Kuala Lumpur,9
+1/3/2023,Pangsapuri Teratak Muhibbah 2,2022,1000,Taman Desa,Apartment,3,1,2,650,1,Kuala Lumpur,4
+1/4/2023,Sentul Point Suite Apartment,2020,1700,Sentul,Apartment,2,1,2,743,3,Kuala Lumpur,8
+1/5/2023,Arte Mont Kiara,2020,1299,Mont Kiara,Service Residence,1,1,1,494,2,Kuala Lumpur,11
+1/6/2023,Residensi Vista Wirajaya,2020,1500,Setapak,Apartment,3,1,2,884,3,Kuala Lumpur,6
+1/7/2023,Sky Meridien,2020,2900,Sentul,Service Residence,3,2,2,982,1,Kuala Lumpur,10
+1/8/2023,Arte Plus Jalan Ampang,2018,1550,Ampang,Service Residence,1,1,1,700,1,Kuala Lumpur,7
+1/9/2023,Nova I,2014,1400,Segambut,Apartment,2,1,1,750,1,Kuala Lumpur,5
+1/10/2023,Sofiya Residences,2014,1350,Desa ParkCity,Condominium,3,1,2,862,3,Kuala Lumpur,6
+1/11/2023,The Park Sky Residence @ Bukit Jalil City,2019,2600,Bukit Jalil,Service Residence,2,1,2,868,3,Kuala Lumpur,7
+1/12/2023,PV9 Residences @ Taman Melati,2022,2000,Setapak,Service Residence,4,2,2,1100,3,Kuala Lumpur,9
+1/13/2023,Arte Plus Jalan Ampang,2018,1500,Ampang,Service Residence,1,1,1,700,1,Kuala Lumpur,13
+1/14/2023,Maxim Citilights,2017,1300,Sentul,Service Residence,3,1,2,1009,1,Kuala Lumpur,11
+1/15/2023,Greenview Apartments,2017,1000,Kepong,Apartment,5,3,2,855,3,Kuala Lumpur,3
+1/16/2023,Legasi Kampong Bharu,2020,3200,KL City,Apartment,3,1,2,950,1,Kuala Lumpur,13
+1/17/2023,Legasi Kampong Bharu,2020,3200,KL City,Apartment,3,1,2,950,1,Kuala Lumpur,13
+1/18/2023,Majestic Maxim,2021,1400,Cheras,Service Residence,2,2,2,650,2,Kuala Lumpur,8
+1/19/2023,Desa Villas,2021,2500,Wangsa Maju,Condominium,4,2,2,1784,2,Kuala Lumpur,4
+1/20/2023,East Side One Ampang Avenue,2021,1800,Ampang,Condominium,3,1,2,1100,1,Kuala Lumpur,8
+1/21/2023,Majestic Maxim,2021,1099,Cheras,Service Residence,2,1,2,650,2,Kuala Lumpur,8
+1/22/2023,Majestic Maxim,2021,1099,Cheras,Service Residence,2,1,2,650,3,Kuala Lumpur,8
+1/23/2023,Majestic Maxim,2021,1199,Cheras,Service Residence,3,1,2,1100,2,Kuala Lumpur,8
+1/24/2023,Majestic Maxim,2021,1100,Cheras,Service Residence,2,1,2,650,2,Kuala Lumpur,8
+1/25/2023,Sri Penara,2021,1000,Cheras,Apartment,3,1,2,650,2,Kuala Lumpur,3
+1/26/2023,Prisma Cheras,2021,1100,Cheras,Condominium,1,1,1,900,3,Kuala Lumpur,9
+1/27/2023,Menara Alpha,2021,1400,Wangsa Maju,Condominium,3,1,2,1140,2,Kuala Lumpur,6
+1/28/2023,Berlian Residence @ Setapak,2021,1500,Setapak,Condominium,3,1,2,900,2,Kuala Lumpur,5
+1/29/2023,28 Dutamas,2017,2500,Solaris Dutamas,Condominium,4,2,3,1500,3,Kuala Lumpur,6
+1/30/2023,28 Dutamas,2017,2900,Solaris Dutamas,Condominium,4,2,3,1719,1,Kuala Lumpur,6
+1/31/2023,Pangsapuri Melur (Sentul),2006,1750,Sentul,Apartment,3,1,2,1065,3,Kuala Lumpur,6
+2/1/2023,Residensi Vista Wirajaya,2006,1800,Setapak,Apartment,3,1,2,885,1,Kuala Lumpur,6
+2/2/2023,Bayu Sentul Condominium,2015,1900,Sentul,Condominium,3,2,2,1300,3,Kuala Lumpur,6
+2/3/2023,Flexus Signature Suites,2015,1500,Jalan Kuching,Studio,1,1,1,530,1,Kuala Lumpur,6
+2/4/2023,Menjalara 18,2015,2400,Bandar Menjalara,Condominium,3,1,2,1316,1,Kuala Lumpur,8
+2/5/2023,G Residence @ Desa Pandan,2015,4500,Desa Pandan,Service Residence,3,2,2,1539,1,Kuala Lumpur,4
+2/6/2023,Greenpark,1999,1400,Old Klang Road,Condominium,3,1,2,1270,3,Kuala Lumpur,10
+2/7/2023,Majestic Maxim,2021,1800,Cheras,Service Residence,3,1,2,819,3,Kuala Lumpur,10
+2/8/2023,Baiduri Apartment (Desa Pandan),2021,1500,Desa Pandan,Apartment,3,1,2,950,3,Kuala Lumpur,2
+2/9/2023,Bennington Residences @ SkyArena,2019,3000,Setapak,Condominium,3,2,2,1200,1,Kuala Lumpur,11
+2/10/2023,Sri Putramas,2004,1600,Jalan Kuching,Condominium,3,1,2,1100,1,Kuala Lumpur,9
+2/11/2023,Putra Villa,2007,1800,Setapak,Condominium,3,2,2,1200,1,Kuala Lumpur,9
+2/12/2023,38 Bidara,2007,2100,KLCC,Condominium,2,2,2,706,1,Kuala Lumpur,9
+2/13/2023,3 Towers,2015,2500,Ampang Hilir,Condominium,2,1,1,890,1,Kuala Lumpur,6
+2/14/2023,One Maxim,2020,1300,Sentul,Service Residence,2,1,2,650,3,Kuala Lumpur,9
+2/15/2023,Casa Mutiara,2007,2000,Bukit Bintang,Service Residence,2,1,2,742,1,Kuala Lumpur,7
+2/16/2023,Sofiya Residences,2007,2000,Desa ParkCity,Condominium,3,1,2,862,1,Kuala Lumpur,2
+2/17/2023,Laman Tasik,2002,2100,Cheras,Condominium,4,1,3,1300,1,Kuala Lumpur,6
+2/18/2023,Residensi Seri Wahyu @ Jalan Kuching KL,2002,1300,KL City,Apartment,3,1,2,805,3,Kuala Lumpur,9
